@@ -1,0 +1,26 @@
+.table,
+td {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+.table {
+    margin-bottom: 30px;
+}
+
+.hoh {
+    background-color: olive;
+}
+
+tr:hover {
+    background-color: rgb(255, 0, 0);
+}
+
+.btn {
+    background-color: firebrick;
+}
+
+.form-input:hover {
+    background-color: red;
+    border: 10000px;
+}
